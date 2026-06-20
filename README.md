@@ -1,6 +1,6 @@
 # monkhoahocdulieu
 ĐỀ tài :Phân tích dữ liệu bán hàng siêu thị
-câu hỏi: 
+# câu hỏi: 
 1 Phân tích dữ liệu bán hàng siêu thị,Doanh thu và lợi nhuận của siêu thị biến động như thế nào theo thời gian? 
 
 2 Khu vực nào mang lại doanh thu và lợi nhuận cao nhất cho siêu thị? 
