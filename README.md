@@ -10,7 +10,7 @@
 4  Những sản phẩm nào bán chạy và mang lại lợi nhuận cao nhất? 
 
 5  Mức giảm giá ảnh hưởng như thế nào đến lợi nhuận của siêu thị?
-câu hỏi thứ 2: 
+# câu hỏi thứ 2: 
 1 Có thể phân nhóm khách hàng dựa trên hành vi mua sắm hay không? 
 2 Có thể dự đoán một đơn hàng sẽ mang lại lợi nhuận cao hay thấp hay không?
 
